@@ -19,7 +19,10 @@ h2 {
   font-family: "Handlee", cursive;
   margin-top: 80px;
   background-color: rgb(243, 237, 229);
+}
+.info {
   margin-bottom: 200px;
+  color: rgb(106, 30, 221);
 }
 .search {
   margin: 20px 40px;
